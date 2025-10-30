@@ -485,10 +485,10 @@ export class Paginator extends HTMLElement {
         }
         #top {
             --_gap: 7%;
-            --_margin-top: 48px;
-            --_margin-right: 48px;
-            --_margin-bottom: 48px;
-            --_margin-left: 48px;
+            --_margin-top: 20px;
+            --_margin-right: 20px;
+            --_margin-bottom: 20px;
+            --_margin-left: 20px;
             --_max-inline-size: 720px;
             --_max-block-size: 1440px;
             --_max-column-count: 2;
